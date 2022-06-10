@@ -1,0 +1,6 @@
+# exclude all JPEGs
+*.jpg
+*.jpeg
+
+# exclude all ZIP archives
+*.zip
