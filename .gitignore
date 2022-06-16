@@ -4,3 +4,9 @@
 
 # exclude all ZIP archives
 *.zip
+
+*.DS_Store
+
+*.csv
+
+*.png
